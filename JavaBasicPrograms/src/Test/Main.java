@@ -16,6 +16,8 @@ public class Main {
 		String s=sc.next();
 		m.StringPalindrome(s);
 		
+		
+		
 	}
 
 }

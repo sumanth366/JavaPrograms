@@ -35,4 +35,6 @@ public class Methods {
 			System.out.println(" string is palindrome");
 		
 		}
+		
+		
 }
